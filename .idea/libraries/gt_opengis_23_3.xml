@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gt-opengis-23.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-opengis/23.3/gt-opengis-23.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
